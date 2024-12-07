@@ -65,7 +65,6 @@ class _JogoState extends State<Jogo> {
             ),
           ),
 
-          // Imagem da escolha do app
           Image(image: _imageApp, height: 120),
 
           Padding(

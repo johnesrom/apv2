@@ -1,10 +1,10 @@
 import 'package:avp2/pages/jogos/CaraOuCoroaPage.dart';
 import 'package:avp2/pages/jogos/ImparOuParPage.dart';
 import 'package:flutter/material.dart';
-import 'JokenPo.dart'; // Import do jogo JokenPo
+import 'JokenPo.dart';
 
 class TelaJogos extends StatelessWidget {
-  // Método para navegar para o jogo JokenPo
+
   void _navigateToJokenPo(BuildContext context) {
     Navigator.push(
       context,
@@ -46,7 +46,7 @@ class TelaJogos extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // Título "JokenPo" que ao ser clicado leva para o jogo
+
             GestureDetector(
               onTap: () => _navigateToJokenPo(context),
               child: const Text(

@@ -24,6 +24,7 @@ Este projeto é um aplicativo simples desenvolvido em Flutter que simula o jogo 
 
 - Denilson Ferreira de Melo
 - Jones Carlos da Silva Sousa
+- Joel vittore Oliveira dos Santos
 
 ## Instituição
 

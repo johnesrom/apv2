@@ -2,9 +2,8 @@
 
 Trabalho AP2 Ricardo
 
-# Jogo de Ímpar ou Par em Flutter
 
-Este projeto é um aplicativo simples desenvolvido em Flutter que simula navegação entre páginas onde possui exemplos de tipos de aplicações que podem ser feito com dart.
+## Este projeto é um aplicativo simples desenvolvido em Flutter que simula navegação entre páginas onde possui exemplos de tipos de aplicações que podem ser feito com dart.
 
 ## Como Executar
 

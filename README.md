@@ -4,7 +4,7 @@ Trabalho AP2 Ricardo
 
 # Jogo de Ímpar ou Par em Flutter
 
-Este projeto é um aplicativo simples desenvolvido em Flutter que simula o jogo de "Ímpar ou Par". O usuário pode escolher entre "Ímpar" ou "Par", e o aplicativo gera um número aleatório para determinar o resultado do jogo.
+Este projeto é um aplicativo simples desenvolvido em Flutter que simula navegação entre páginas onde possui exemplos de tipos de aplicações que podem ser feito com dart.
 
 ## Como Executar
 

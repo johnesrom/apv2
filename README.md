@@ -1,9 +1,8 @@
-# avp2
-
-Trabalho AP2 Ricardo
+# Trabalho AP2 Ricardo
 
 
-## Este projeto é um aplicativo simples desenvolvido em Flutter que simula navegação entre páginas onde possui exemplos de tipos de aplicações que podem ser feito com dart.
+Este projeto é um aplicativo simples desenvolvido em Flutter que simula navegação entre páginas onde possui exemplos de tipos de aplicações que podem ser feito com dart.
+Na tela, possuem 3 aplicações, um gerador de frases, uma calculadora de álcool ou gasolina e outra aplicação de jogos que redireciona para 3 jogos : par ou ímpar, cara ou coroa e jokenpo
 
 ## Como Executar
 
